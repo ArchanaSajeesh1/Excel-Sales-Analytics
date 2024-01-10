@@ -6,17 +6,17 @@
 
     **1.** Create a _[customer performance report](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%	   20Target.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
-    **3.** Create a report to show_[the top 10 products based on the percentage increase in their net sales from 2020 to 2021](https://github.com/ArchanaSajeesh1/Excel-Sales-  		   Analytics/blob/main/Top%2010%20Products.pdf)_
+    **3.** Create a report to show _[the top 10 products](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_ based on the percentage increase in their net sales from 2020 to 2021
 
-    **4.** Generate a_[Product Division level report to present the net sales data for 2020 and 2021, along with the growth percentage](https://github.com/ArchanaSajeesh1/Excel-Sales-		   Analytics/blob/main/Division%20Level%20Report.pdf)_
+    **4.** Generate a _[Product Division level report](https://github.com/ArchanaSajeesh1/Excel-SalesAnalytics/blob/main/Division%20Level%20Report.pdf)_ to present the net sales data for 2020 and 2021, along with the growth percentage
 
-    **5.** Create_[Top 5 and Bottom 5 product Report based on quantity sold](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/Top%20%26%20Bottom%205%20Products.pdf)_
+    **5.** Create _[Top 5 and Bottom 5 product Report](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/Top%20%26%20Bottom%205%20Products.pdf)_ based on quantity sold
 
-    **6.** Create a report to show_[the new products that Atliq began selling in 2021](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/New%20Products%20-%202021.pdf)_
+    **6.** Create a report to show _[the new products that Atliq began selling in 2021](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/New%20Products%20-%202021.pdf)_
  
-    **7.** Create a report to show_[top 5 countries in terms of net sales in 2021](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/Top%205%20Country%20-%202021.pdf)_
+    **7.** Create a report to show _[top 5 countries](https://github.com/ArchanaSajeesh1/Excel-Sales-Analytics/blob/main/Top%205%20Country%20-%202021.pdf)_ in terms of net sales in 2021
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
